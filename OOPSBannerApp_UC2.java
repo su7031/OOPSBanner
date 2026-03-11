@@ -1,12 +1,12 @@
 /**
- * OOPSBannerApp - Use Case 1: Print "OOPS"
- * This application serves as the foundational step for the OOPS Banner App project.
- * It demonstrates Java fundamentals, including class structure and the main method.
+ * OOPSBannerApp_UC2 - Use Case 2: ASCII Banner
+ * This application extends UC1 by printing an ASCII art "OOPS" pattern
+ * using 7 separate print statements.
  *
  * @author Antigravity
  * @version 1.0
  */
-public class OOPSBannerApp {
+public class OOPSBannerApp_UC2 {
 
     /**
      * Main method - the entry point of the application.
